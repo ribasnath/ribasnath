@@ -19,7 +19,6 @@
 <div align="center">
   <a href="https://github.com/ribasnath">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribasnath&layout=compact&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ribasnath&show_icons=true&theme=radical"/>
 </div>
   
  ##
